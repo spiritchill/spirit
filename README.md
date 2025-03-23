@@ -1,4 +1,4 @@
-# HELLO WORLD 👋
+# Hey , I'm Mayank 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/spiritchill/spirit/blob/main/assets/dandadan2.gif">
@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - Hi, I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years old Machine Learning & Artificial Intelligence Enthusiast from India.
 
 <img height="300" width="450px" alt="GIF" align="right" style="padding-left:0px;" src="https://github.com/spiritchill/spirit/blob/main/assets/yato.gif">
 
@@ -32,12 +32,12 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Skills & Tools 👨‍💻 🛠:
 </br>
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,cpp,c,html,css,react,nodejs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,cpp,c,html,css,react,solidity,nodejs,tailwind)](https://skillicons.dev)
 
 ### Tools
 
